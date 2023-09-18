@@ -1,2 +1,3 @@
 # example-repo
-This is just an example for the Buhave Summer School
+
+This is just an example for the Behave Summer School
